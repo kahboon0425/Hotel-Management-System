@@ -1,0 +1,8 @@
+AA2,2023-06-04,kahboon123@gmail.com,kahboon,0127887733,TP12345,Female,Master Room,1 July 2023,6 months,31 January 2024,10800.0,Approved,kahboon,M0003,Paid
+AA4,2023-06-04,kenneth123@gmail.com,Kenneth,012889982,TP778883,Male,Junior Room,1 August 2023,1 year,31 August 2024,20400.0,Rejected,Kenneth,-,-
+AA5,2023-06-04,yuki123@gmail.com,Yuki,012554422,TP778872,Female,Junior Room,1 August 2023,6 months,29 February 2024,10200.0,Rejected,Yuki,-,-
+AA6,2023-06-04,eunice123@gmail.com,Eunice,0127652288,TP12345,Female,Master Room,1 July 2023,6 months,31 January 2024,10800.0,Approved,Eunice,M0005,Paid
+AA7,2023-06-04,sophia123@gmail.com,Sophia,012887663,TP223344,Female,Single Room,1 August 2023,6 months,29 February 2024,9000.0,Approved,Sophia,S0002,Paid
+WW1,2023-06-04,ryan123@gmail.com,Ryan,0127782222,TP112233,Male,Single Room,1 September 2023,1 year,30 September 2024,18000.0,Approved,Ryan,S0003,Paid
+WW2,2023-06-04,joshua123@gmail.com,Joshua,01255556,TP009988,Male,Single Room,1 July 2023,6 months,31 January 2024,9000.0,waitingList...,Joshua,-,-
+WW3,2023-06-05,joshua123@gmail.com,Joshua,01255556,TP009988,Male,Junior Room,1 September 2023,1 year,30 September 2024,20400.0,waitingList...,Joshua,-,-

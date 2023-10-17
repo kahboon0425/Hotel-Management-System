@@ -1,0 +1,2 @@
+WW2,2023-06-04,joshua123@gmail.com,Joshua,01255556,TP009988,Male,Single Room,1 July 2023,6 months,31 January 2024,9000.0,waitingList...,Joshua
+WW3,2023-06-05,joshua123@gmail.com,Joshua,01255556,TP009988,Male,Junior Room,1 September 2023,1 year,30 September 2024,20400.0,waitingList...,Joshua

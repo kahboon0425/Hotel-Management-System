@@ -1,0 +1,2 @@
+AA5,2023-06-04,yuki123@gmail.com,Yuki,012554422,TP778872,Female,Junior Room,1 August 2023,6 months,29 February 2024,10200.0,Rejected,Yuki,-
+AA4,2023-06-04,kenneth123@gmail.com,Kenneth,012889982,TP778883,Male,Junior Room,1 August 2023,1 year,31 August 2024,20400.0,Rejected,Kenneth,-
